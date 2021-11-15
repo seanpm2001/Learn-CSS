@@ -1,406 +1,1429 @@
 
 ***
 
-# <projectName>
-
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
-
-# By:
-
-<!-- ![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg) !-->
-
-## [Seanpm2001](https://github.com/seanpm2001/), [<developerName>](https://github.com/<developerName>/) Et; Al.
-
-
-### Top
-
-# `README.md`
-
-***
-
-## Read this article in a different language
-
-**Sorted by:** `A-Z`
-
-[Sorting options unavailable](https://github.com/<developerName>/<repoName>)
-
-( [af Afrikaans](/.github/README_AF.md) Afrikaans | [sq Shqiptare](/.github/README_SQ.md) Albanian | [am አማርኛ](/.github/README_AM.md) Amharic | [ar عربى](/.github/README_AR.md) Arabic | [hy հայերեն](/.github/README_HY.md) Armenian | [az Azərbaycan dili](/.github/README_AZ.md) Azerbaijani | [eu Euskara](/.github/README_EU.md) Basque | [be Беларуская](/.github/README_BE.md) Belarusian | [bn বাংলা](/.github/README_BN.md) Bengali | [bs Bosanski](/.github/README_BS.md) Bosnian | [bg български](/.github/README_BG.md) Bulgarian | [ca Català](/.github/README_CA.md) Catalan | [ceb Sugbuanon](/.github/README_CEB.md) Cebuano | [ny Chichewa](/.github/README_NY.md) Chichewa | [zh-CN 简体中文](/.github/README_ZH-CN.md) Chinese (Simplified) | [zh-t 中國傳統的）](/.github/README_ZH-T.md) Chinese (Traditional) | [co Corsu](/.github/README_CO.md) Corsican | [hr Hrvatski](/.github/README_HR.md) Croatian | [cs čeština](/.github/README_CS.md) Czech | [da dansk](README_DA.md) Danish | [nl Nederlands](/.github/README_NL.md) Dutch | [**en-us English**](/.github/README.md) English |  [EO Esperanto](/.github/README_EO.md) Esperanto | [et Eestlane](/.github/README_ET.md) Estonian | [tl Pilipino](/.github/README_TL.md) Filipino | [fi Suomalainen](/.github/README_FI.md) Finnish |  [fr français](/.github/README_FR.md) French | [fy Frysk](/.github/README_FY.md) Frisian | [gl Galego](/.github/README_GL.md) Galician | [ka ქართველი](/.github/README_KA) Georgian | [de Deutsch](/.github/README_DE.md) German | [el Ελληνικά](/.github/README_EL.md) Greek | [gu ગુજરાતી](/.github/README_GU.md) Gujarati | [ht Kreyòl ayisyen](/.github/README_HT.md) Haitian Creole | [ha Hausa](/.github/README_HA.md) Hausa | [haw Ōlelo Hawaiʻi](/.github/README_HAW.md) Hawaiian | [he עִברִית](/.github/README_HE.md) Hebrew | [hi हिन्दी](/.github/README_HI.md) Hindi | [hmn Hmong](/.github/README_HMN.md) Hmong | [hu Magyar](/.github/README_HU.md) Hungarian | [is Íslenska](/.github/README_IS.md) Icelandic | [ig Igbo](/.github/README_IG.md) Igbo | [id bahasa Indonesia](/.github/README_ID.md) Icelandic | [ga Gaeilge](/.github/README_GA.md) Irish | [it Italiana/Italiano](/.github/README_IT.md) | [ja 日本語](/.github/README_JA.md) Japanese | [jw Wong jawa](/.github/README_JW.md) Javanese | [kn ಕನ್ನಡ](/.github/README_KN.md) Kannada | [kk Қазақ](/.github/README_KK.md) Kazakh | [km ខ្មែរ](/.github/README_KM.md) Khmer | [rw Kinyarwanda](/.github/README_RW.md) Kinyarwanda | [ko-south 韓國語](/.github/README_KO_SOUTH.md) Korean (South) | [ko-north 문화어](README_KO_NORTH.md) Korean (North) (NOT YET TRANSLATED) | [ku Kurdî](/.github/README_KU.md) Kurdish (Kurmanji) | [ky Кыргызча](/.github/README_KY.md) Kyrgyz | [lo ລາວ](/.github/README_LO.md) Lao | [la Latine](/.github/README_LA.md) Latin | [lt Lietuvis](/.github/README_LT.md) Lithuanian | [lb Lëtzebuergesch](/.github/README_LB.md) Luxembourgish | [mk Македонски](/.github/README_MK.md) Macedonian | [mg Malagasy](/.github/README_MG.md) Malagasy | [ms Bahasa Melayu](/.github/README_MS.md) Malay | [ml മലയാളം](/.github/README_ML.md) Malayalam | [mt Malti](/.github/README_MT.md) Maltese | [mi Maori](/.github/README_MI.md) Maori | [mr मराठी](/.github/README_MR.md) Marathi | [mn Монгол](/.github/README_MN.md) Mongolian | [my မြန်မာ](/.github/README_MY.md) Myanmar (Burmese) | [ne नेपाली](/.github/README_NE.md) Nepali | [no norsk](/.github/README_NO.md) Norwegian | [or ଓଡିଆ (ଓଡିଆ)](/.github/README_OR.md) Odia (Oriya) | [ps پښتو](/.github/README_PS.md) Pashto | [fa فارسی](/.github/README_FA.md) |Persian  [pl polski](/.github/README_PL.md) Polish | [pt português](/.github/README_PT.md) Portuguese | [pa ਪੰਜਾਬੀ](/.github/README_PA.md) Punjabi | No languages available that start with the letter Q | [ro Română](/.github/README_RO.md) Romanian | [ru русский](/.github/README_RU.md) Russian | [sm Faasamoa](/.github/README_SM.md) Samoan | [gd Gàidhlig na h-Alba](/.github/README_GD.md) Scots Gaelic | [sr Српски](/.github/README_SR.md) Serbian | [st Sesotho](/.github/README_ST.md) Sesotho | [sn Shona](/.github/README_SN.md) Shona | [sd سنڌي](/.github/README_SD.md) Sindhi | [si සිංහල](/.github/README_SI.md) Sinhala | [sk Slovák](/.github/README_SK.md) Slovak | [sl Slovenščina](/.github/README_SL.md) Slovenian | [so Soomaali](/.github/README_SO.md) Somali | [[es en español](/.github/README_ES.md) Spanish | [su Sundanis](/.github/README_SU.md) Sundanese | [sw Kiswahili](/.github/README_SW.md) Swahili | [sv Svenska](/.github/README_SV.md) Swedish | [tg Тоҷикӣ](/.github/README_TG.md) Tajik | [ta தமிழ்](/.github/README_TA.md) Tamil | [tt Татар](/.github/README_TT.md) Tatar | [te తెలుగు](/.github/README_TE.md) Telugu | [th ไทย](/.github/README_TH.md) Thai | [tr Türk](/.github/README_TR.md) Turkish | [tk Türkmenler](/.github/README_TK.md) Turkmen | [uk Український](/.github/README_UK.md) Ukrainian | [ur اردو](/.github/README_UR.md) Urdu | [ug ئۇيغۇر](/.github/README_UG.md) Uyghur | [uz O'zbek](/.github/README_UZ.md) Uzbek | [vi Tiếng Việt](/.github/README_VI.md) Vietnamese | [cy Cymraeg](/.github/README_CY.md) Welsh | [xh isiXhosa](/.github/README_XH.md) Xhosa | [yi יידיש](/.github/README_YI.md) Yiddish | [yo Yoruba](/.github/README_YO.md) Yoruba | [zu Zulu](/.github/README_ZU.md) Zulu ) Available in 110 languages (108 when not counting English and North Korean, as North Korean has not been translated yet [Read about it here](/OldVersions/Korean(North)/README.md))
-
-Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of March 21st 2021. Please report translation errors [here](https://github.com/<developerName>/<repoName>/issues/). Make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
-
-Note: due to limitations with GitHub's interpretation of markdown (and pretty much every other web-based interpretation of markdown) clicking these links will redirect you to a separate file on a separate page that isn't the intended page. You will be redirected to the [.github folder](/.github/) of this project, where the README translations are hosted.
-
-Translations are currently done with Bing translate and DeepL. Support for Google Translate translations is coming to a close due to privacy concerns.
-
-***
-
-# Index
-
-[00.0 - Top](#Top)
-
-> [00.1 - Title](#<projectName>)
-
-> [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
-
-> [00.3 - Index](#Index)
-
-[01.0 - Description](#RepositoryName)
-
-[02.0 - About](#About)
-
-[03.0 - Wiki](#Wiki)
-
-[04.0 - History](#History)
-
-> [04.1 - Pre-history](#Pre-history)
-
-> [04.2 - Alpha History](#Alpha-history)
-
-> [04.3 - Beta History](#Beta-history)
-
-> [04.4 - Modern History](#Modern-history)
-
-[05.0 - Copying](#Copying)
-
-[06.0 - Credits](#Credits)
-
-[07.0 - Installation](#Installation)
-
-[08.0 - Version history](#Version-history)
-
-[09.0 - Version history](#Version-history)
-
-[10.0 - Software status](#Software-status)
-
-[11.0 - Sponsor info](#Sponsor-info)
-
-[12.0 - Contributers](#Contributers)
-
-[13.0 - Issues](#Issues)
-
-> [13.1 - Current issues](#Current-issues)
-
-> [13.2 - Past issues](#Past-issues)
-
-> [13.3 - Past pull requests](#Past-pull-requests)
-
-> [13.4 - Active pull requests](#Active-pull-requests)
-
-[14.0 - Resources](#Resources)
-
-[15.0 - Contributing](#Contributing)
-
-[16.0 - About README](#About-README)
-
-[17.0 - README Version history](#README-version-history)
-
-[18.0 - Footer](#You-have-reached-the-end-of-the-README-file)
-
-> [18.9 - End of file](#EOF)
-
-***
-
-# <repoName>
-<repo_description>
-
-***
-
-## About
-
-See above. <extendedRepoDescription>
-
-***
-
-## Wiki
-
-[Click/tap here to view this projects Wiki](https://github.com/<developerName>/<repoName>/wiki)
-
-If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
-
-***
-
-## History
-
-Write about this projects history here.
-
-### Pre-history
-
-No pre-history to show for this project.
-
-### Alpha history
-
-No Alpha history to show for this project.
-
-### Beta history
-
-No Beta history to show for this project.
-
-### Modern history
-
-No Modern history to show for this project.
-
-***
-
-## Copying
-
-View the copying license for this project [here](/COPYING) (if you haven't built the project yet with the makefile, here is the original link: [COPYINGL](/COPYINGL)
-
-Please note that you also have to follow the rules of the GNU General Public License v3 (GPL3) which you can view [here](/LICENSE.txt)
-
-***
-
-## Credits
-
-View the credits file for this project and see the people who got together to make this project by [clicking/tapping here](/CREDITS)
-
-***
-
-## Installation
-
-View the installation instructions file for this project [here](/INSTALL)
-
-Requirements: Read the instructions for more info, and get the latest up-to-date instructions [here](https://gist.github.com/seanpm2001/745564a46186888e829fdeb9cda584de)
-
-***
-
-## Sponsor info
-
-![SponsorButton.png](/SponsorButton.png)
-
-You can sponsor this project if you like, but please specify what you want to donate to. [See the funds you can donate to here](https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors/)
-
-You can view other sponsor info [here](https://github.com/seanpm2001/Sponsor-info/)
-
-Try it out! The sponsor button is right up next to the watch/unwatch button.
-
-***
-
-## Version history
-
-**Version history currently unavailable**
-
-**No other versions listed**
-
-***
-
-## Software status
-
-All of my works are free some restrictions. DRM (**D**igital **R**estrictions **M**anagement) is not present in any of my works.
-
-![DRM-free_label.en.svg](/DRM-free_label.en.svg)
-
-This sticker is supported by the Free Software Foundation. I never intend to include DRM in my works.
-
-I am using the abbreviation "Digital Restrictions Management" instead of the more known "Digital Rights Management" as the common way of addressing it is false, there are no rights with DRM. The spelling "Digital Restrictions Management" is more accurate, and is supported by [Richard M. Stallman (RMS)](https://en.wikipedia.org/wiki/Richard_Stallman) and the [Free Software Foundation (FSF)](https://en.wikipedia.org/wiki/Free_Software_Foundation)
-
-This section is used to raise awareness for the problems with DRM, and also to protest it. DRM is defective by design and is a major threat to all computer users and software freedom.
-
-Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label/)
-
-***
-
-## Contributers
-
-Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](/CONTRIBUTING.md) file.
-
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of Yr, DoW, Month, DoM, at ##:## a/pm)
-
-> * 2. No other contributers.
-
-***
-
-## Issues
-
-### Current issues
-
-* None at the moment
-
-* No other current issues
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past issues
-
-* None at the moment
-
-* No other past issues
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past pull requests
-
-* None at the moment
-
-* No other past pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Active pull requests
-
-* None at the moment
-
-* No other active pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-***
-
-## Resources
-
-Here are some other resources for this project:
-
-[Project language file A](PROJECT_LANG_1.<fileExtensionForProgrammingLanguage>)
-
-[Join the discussion on GitHub](https://github.com/<developerName>/<repoName>/discussions)
-
-No other resources at the moment.
-
-***
-
-## Contributing
-
-Contributing is allowed for this project, as long as you follow the rules of the `CONTRIBUTING.md` file.
-
-[Click/tap here to view the contributing rules for this project](/CONTRIBUTING.md)
-
-***
-
-## About README
-
-**File type:** `Markdown Document (*.md *.mkd *.markdown)`
-
-**File version:** `0.1.6 (Monday, August 23rd 2021 at 6:37 pm)`
-
-**Line count (including blank lines and compiler line):** `0,407`
-
-***
-
-## README version history
-
-Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
-
-> Changes:
-
-> * Started the file
-
-> * Added the title section
-
-> * Added the index
-
-> * Added the about section
-
-> * Added the Wiki section
-
-> * Added the version history section
-
-> * Added the issues section.
-
-> * Added the past issues section
-
-> * Added the past pull requests section
-
-> * Added the active pull requests section
-
-> * Added the contributors section
-
-> * Added the contributing section
-
-> * Added the about README section
-
-> * Added the README version history section
-
-> * Added the resources section
-
-> * Added a software status section, with a DRM free sticker and message
-
-> * Added the sponsor info section
-
-**ITERATION 5**
-
-> * Updated the title section
-
-> * Updated the index
-
-> * Added the history section
-
-> * Updated the file info section
-
-> * Updated the file history section
-
-**ITERATION 6**
-
-> * Updated the title section
-
-> * Fixed and update template links
-
-> * Updated the index
-
-> * Added the copying section
-
-> * Added the credits section
-
-> * Added the installation section
-
-> * Updated the resources section
-
-> * Updated the contributors section
-
-> * Added the technical notes section
-
-> * Updated the footer
-
-> * Updated the file info section
-
-> * Updated the file history section
-
-> * No other changes in version 0.1
-
-Version 1 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 1
-
-Version 2 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 2
-
-***
-
-### You have reached the end of the README file
-
-( [Back to top](#Top) | [Exit to GitHub](https://github.com) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org) )
-
-### EOF
+### Learning CSS
+
+![/CSS3_logo_and_wordmark.svg](/CSS3_logo_and_wordmark.svg)
+
+I know a decent amount of CSS, but I still intend to learn more, as I am still at an amateur level in this language.
+
+All examples here in total contain over 1000 lines of CSS source code
+
+#### Basic syntax in CSS
+
+```css
+p {
+	color: black;
+}
+i {
+	color: black;
+}
+u {
+	color: black;
+}
+s {
+	color: black;
+}
+H1 {
+	color: black;
+}
+H2 {
+	color: black;
+}
+H3 {
+	color: black;
+}
+H4 {
+	color: black;
+}
+H5 {
+	color: black;
+}
+H6 {
+	color: black;
+}
+HR {
+	color: black;
+}
+details {
+	color: black;
+}
+a {
+	color: blue;
+}
+```
+
+#### Coloring tags
+
+This is a copy of the above example.
+
+```css
+p {
+	color: black;
+}
+i {
+	color: black;
+}
+u {
+	color: black;
+}
+s {
+	color: black;
+}
+H1 {
+	color: black;
+}
+H2 {
+	color: black;
+}
+H3 {
+	color: black;
+}
+H4 {
+	color: black;
+}
+H5 {
+	color: black;
+}
+H6 {
+	color: black;
+}
+HR {
+	color: black;
+}
+details {
+	color: black;
+}
+a {
+	color: blue;
+}
+```
+
+#### Hyperlink states in CSS
+
+This example is from W3Schools, most of my web development knowledge came from them. There isn't much to change here, and there isn't much to be original on, so this example is copy-pasted.
+
+```css
+/* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+```
+
+#### Assigning fonts in CSS
+
+Adding the fonts I know to CSS tags:
+
+```css
+p {
+	font-family: "Times New Roman";
+	color: black;	
+}
+H1 {
+	font-family: "Comic Sans MS";
+	color: black;
+}
+H2 {
+	font-family: "Tahoma";
+	color: black;
+}
+H3 {
+	font-family: "Sans Serif";
+	color: black;
+}
+H4 {
+	font-family: "Courier";
+	color: black;
+}
+```
+
+#### Top navigation bar in CSS
+
+Adding a basic top navigation bar to a page:
+
+```css
+/* The CSS Top navigation bar stylesheet */
+/* Style the links inside the navigation bar */
+/* Rule count: 3 */
+.topnav a { /* Rule 1 */
+	float: left;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+} /* End of rule 1 */
+/* Change the color of links on hover */
+.topnav a:hover { /* Rule 2 */
+	background-color: #ddd;
+	color: black;
+} /* End of rule 2 */
+/* Add a color to the active/current link */
+.topnav a.active { /* Rule 3 */
+	background-color: #4CAF50;
+	color: white;
+} /* End of rule 3 */
+/* Origin: CSSTopNavBarV1 - November 25th 2019 */
+/* Stylesheet version: 2 (February 15th 2020) */
+```
+
+#### Sidebar in CSS
+
+Adding a sidebar to a page in CSS:
+
+```css
+/* CSS sidebar stylesheet */
+/* For the sidebar (left) */
+/* Rule count: 5 */
+body { /* Rule 1 */
+	margin: 0;
+} /* End of rule 1 */
+ul { /* Rule 2 */
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 16%;
+	background-color: #f1f1f1;
+	position: fixed;
+	height: 100%;
+	overflow: auto;
+} /* End of rule 2 */
+li a { /* Rule 3 */
+	display: block;
+	color: #000;
+	padding: 8px 16px;
+	text-decoration: none;
+} /* End of rule 3 */
+li a.active { /* Rule 4 */
+	background-color: #4CAF50;
+	color: white;
+} /* End of rule 4 */
+li a:hover:not(.active) { /* Rule 5 */
+	background-color: #555;
+	color: white;
+} /* End of rule 5 */
+/* Origin: CSSSidebarSectionV1.css - November 25th 2019 */
+/* Stylesheet version: 2 (February 15th 2020) */
+```
+
+#### Transparent dialog boxes in CSS
+
+The transparent dialog box style I use in my projects, it came from W3Schools.
+
+```css
+/* The CSS Transparent boxes stylesheet */
+/* transparent box section */
+/* Rule count: 4 */
+div.background { /* Rule 1 */ /* Defines the background for the div */
+	background: url(klematis.jpg) repeat; /* klematis.jpg has never existed. It was just what came with it (credit to w3schools) */
+	border: 2px solid black;
+} /* End of rule 1 */
+div.transbox { /* Rule 2 */ /.* Defines the transparent box div */
+	margin-top: 0px;
+	margin-bottom: 0px; 
+	margin-right: 0px;
+	margin-left: 0px;
+	background-color: #00BFFF; /* The text was there, the background was the wrong color. A new beautiful shade of blue was added to fix this - April 6th 2019 */
+	border: 1px solid black;
+	opacity: 0.6;
+	filter: alpha(opacity=80); /* For IE8 and earlier */
+} /* End of rule 2 */
+div.transbox p { /* Rule 3 */ /* Defines the settings for paragraphs on the transparent box */
+	margin: 1%; /* make sure this stays at 1%. At 5%, there is a large spacing issue between each new paragraph */
+	font-weight: bold;
+	color: #ffffff;
+} /* End of rule 3 */
+/* Add a black background color to the top navigation */
+.topnav { /* Rule 4 */ /* Top navigation bar */
+	background-color: #333;
+	overflow: hidden;
+} /* End of rule 4 */
+/* Origin: TransparentBoxCSSSectionV1.css - November 25th 2019 */
+/* Stylesheet version: 2 (February 15th 2020) */
+```
+
+#### Embeddding CSS in HTML
+
+```html
+<style type="text/css"
+p {
+	color: white;
+}
+/* CSS embedded in HTML5 */
+</style>
+```
+
+#### Comments in CSS
+
+CSS only supports 1 comment style:
+
+```css
+/* This is a comment in CSS */
+/* It can also be
+a block comment */
+```
+
+#### 3D buttons in CSS
+
+3D buttons in CSS.
+
+```css
+.disabled {
+	opacity: 0.6;
+	cursor: not-allowed;
+}
+.button3D_1 {
+	display: inline-block;
+	padding: 15px 25px;
+	font-size: 24px;
+	cursor: pointer;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	color: #fff;
+	background-color: #4CAF50;
+	border: none;
+	border-radius: 15px;
+	box-shadow: 0 9px #999;
+}
+
+.button3D_1:hover {background-color: #3e8e41}
+
+.button3D_1:active {
+	background-color: #3e8e41;
+	box-shadow: 0 5px #666;
+	transform: translateY(4px);
+}
+```
+
+#### Fly out buttons in CSS
+
+Buttons that fly out in CSS.
+
+```css
+.buttonFlyer {
+	display: inline-block;
+	border-radius: 4px;
+	background-color: #f4511e;
+	border: none;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 28px;
+	padding: 20px;
+	width: 200px;
+	transition: all 0.5s;
+	cursor: pointer;
+	margin: 5px;
+}
+
+.buttonFlyer span {
+	cursor: pointer;
+	display: inline-block;
+	position: relative;
+	transition: 0.5s;
+}
+
+.buttonFlyer span:after {
+	content: '\00bb';
+	position: absolute;
+	opacity: 0;
+	top: 0;
+	right: -20px;
+	transition: 0.5s;
+}
+
+.buttonFlyer:hover span {
+	padding-right: 25px;
+}
+
+.buttonFlyer:hover span:after {
+	opacity: 1;
+	right: 0;
+}
+```
+
+#### Shadows in buttons in CSS
+
+```css
+.buttonShadow {
+	background-color: #4CAF50; /* Green */
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	-webkit-transition-duration: 0.4s; /* Safari */
+	transition-duration: 0.4s;
+}
+
+.button1s {
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.button2s:hover {
+	box-shadow: 
+```
+
+#### Buttons in CSS
+
+Interacting with HTML buttons via CSS.
+
+```css
+.button {
+	background-color: #4CAF50; /* Green */
+	border: none;
+	color: white;
+	padding: 16px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	transition-duration: 0.4s;
+	cursor: pointer;
+}
+
+.button1 {
+	background-color: white; 
+	color: black; 
+	border: 2px solid #4CAF50;
+}
+
+.button1:hover {
+	background-color: #4CAF50;
+	color: white;
+}
+
+.button2 {
+	background-color: white; 
+	color: black; 
+	border: 2px solid #008CBA;
+}
+
+.button2:hover {
+	background-color: #008CBA;
+	color: white;
+}
+
+.button3 {
+	background-color: white; 
+	color: black; 
+	border: 2px solid #f44336;
+}
+
+.button3:hover {
+	background-color: #f44336;
+	color: white;
+}
+
+.button4 {
+	background-color: white;
+	color: black;
+	border: 2px solid #e7e7e7;
+}
+
+.button4:hover {background-color: #e7e7e7;}
+
+.button5 {
+	background-color: white;
+	color: black;
+	border: 2px solid #555555;
+}
+
+.button5:hover {
+	background-color: #555555;
+	color: white;
+}
+
+.buttons3 {
+	background-color: #4CAF50; /* Green */
+	border: none;
+	color: white;
+	padding: 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+
+.button {
+	background-color: #4CAF50; /* Green */
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+
+.button1s2 {
+	background-color: white; 
+	color: black; 
+	border: 2px solid #4CAF50;
+}
+
+.button2s2 {
+	background-color: white; 
+	color: black; 
+	border: 2px solid #008CBA;
+}
+
+.button3s2 {
+	background-color: white; 
+	color: black; 
+	border: 2px solid #f44336;
+}
+
+.button4s2 {
+	background-color: white;
+	color: black;
+	border: 2px solid #e7e7e7;
+}
+
+.button5s2 {
+	background-color: white;
+	color: black;
+	border: 2px solid #555555;
+}
+</style>
+<style type="text/css" lang="en">
+.buttons3 {
+	background-color: #4CAF50; /* Green */
+	border: none;
+	color: white;
+	padding: 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+.button1s3 {border-radius: 2px;}
+.button2s3 {border-radius: 4px;}
+.button3s3 {border-radius: 8px;}
+.button4s3 {border-radius: 12px;}
+.button5s3 {border-radius: 50%;}
+```
+
+#### Grids in CSS
+
+Grid containers for CSS
+
+```css
+<style>
+.grid-container {
+  display: grid;
+  grid-column-gap: 50px;
+  grid-template-columns: auto auto auto;
+  background-color: #2196F3;
+  padding: 10px;
+}
+
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+</style>
+```
+
+#### Image gallery slideshows in CSS
+
+```css
+div.gallery {
+  border: 1px solid #ccc;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+```
+
+#### Dropdowns in CSS
+
+```css
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+```
+
+#### Border images in CSS
+
+```css
+#borderimg { 
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(border.png) 30 round;
+}
+```
+
+#### Marquee in CSS
+
+A marquee in CSS
+
+```css
+marquee { /* Can I adjust the speed? */
+	font-size: 30px;
+	font-weight: 800;
+	color: #8ebf42;
+	font-family: sans-serif;
+}
+```
+
+#### Supported colors in CSS
+
+All the colors CSS supports (140/141 colors) the same goes for HTML5.
+
+```css
+/* Start of stylesheet */
+/* ABOUT
+This stylesheet is a reference to the common 140 HTML colors. This applies it to a text section of a master HTML test reference
+*/
+/* Colors 1-10 */
+color001 { /* Color 1 */
+  color: AliceBlue;
+  font-size: 60px;
+}
+color002 { /* Color 2 */
+  color: AntiqueWhite;
+  font-size: 60px;
+}
+color003 { /* Color 3 */
+  color: Aqua;
+  font-size: 60px;
+}
+color004 { /* Color 4 */
+  color: Aquamarine;
+  font-size: 60px;
+}
+color005 { /* Color 5 */
+  color: Azure;
+  font-size: 60px;
+}
+color006 { /* Color 6 */
+  color: Beige;
+  font-size: 60px;
+}
+color007 { /* Color 7 */
+  color: Bisque;
+  font-size: 60px;
+}
+color008 { /* Color 8 */
+  color: Black;
+  font-size: 60px;
+}
+color009 { /* Color 9 */
+  color: BlanchedAlmond;
+  font-size: 60px;
+}
+color010 { /* Color 10 */
+  color: Blue;
+  font-size: 60px;
+}
+/* ===========
+Colors 11-20 | 
+============*/
+color011 { /* Color 11 */
+  color: BlueViolet;
+  font-size: 60px;
+}
+color012 { /* Color 12 */
+  color: Brown;
+  font-size: 60px;
+}
+color013 { /* Color 13 */
+  color: BurlyWood;
+  font-size: 60px;
+}
+color014 { /* Color 14 */
+  color: CadetBlue;
+  font-size: 60px;
+}
+color015 { /* Color 15 */
+  color: Chartreuse;
+  font-size: 60px;
+}
+color016 { /* Color 16 */
+  color: Chocolate;
+  font-size: 60px;
+}
+color017 { /* Color 17 */
+  color: Coral;
+  font-size: 60px;
+}
+color018 { /* Color 18 */
+  color: CornflowerBlue;
+  font-size: 60px;
+}
+color019 { /* Color 19 */
+  color: Cornsilk;
+  font-size: 60px;
+}
+color020 { /* Color 20 */
+  color: Crimson;
+  font-size: 60px;
+}
+/* ===========
+Colors 21-30 | 
+============*/
+color021 { /* Color 21 */
+  color: Cyan;
+  font-size: 60px;
+}
+color022 { /* Color 22 */
+  color: DarkBlue;
+  font-size: 60px;
+}
+color023 { /* Color 23 */
+  color: DarkCyan;
+  font-size: 60px;
+}
+color024 { /* Color 24 */
+  color: DarkGoldenRod;
+  font-size: 60px;
+}
+color025 { /* Color 25 */
+  color: DarkGrey; /* also works as DarkGray */
+  font-size: 60px;
+}
+color026 { /* Color 26 */
+  color: DarkGreen;
+  font-size: 60px;
+}
+color027 { /* Color 27 */
+  color: DarkKhaki;
+  font-size: 60px;
+}
+color028 { /* Color 28 */
+  color: DarkMagenta;
+  font-size: 60px;
+}
+color029 { /* Color 29 */
+  color: DarkOliveGreen;
+  font-size: 60px;
+}
+color030 { /* Color 30 */
+  color: DarkOrange;
+  font-size: 60px;
+}
+/* ===========
+Colors 31-40 | 
+============*/
+color031 { /* Color 31 */
+  color: DarkOrchid;
+  font-size: 60px;
+}
+color032 { /* Color 32 */
+  color: DarkRed;
+  font-size: 60px;
+}
+color033 { /* Color 32 */
+  color: DarkSalmon;
+  font-size: 60px;
+}
+color034 { /* Color 34 */
+  color: DarkSeaGreen;
+  font-size: 60px;
+}
+color035 { /* Color 35 */
+  color: DarkSlateBlue;
+  font-size: 60px;
+}
+color036 { /* Color 36 */
+  color: DarkSlateGrey; /* Also works as DarkSlateGray */
+  font-size: 60px;
+}
+color037 { /* Color 37 */
+  color: DarkTurquoise;
+  font-size: 60px;
+}
+color038 { /* Color 38 */
+  color: DarkViolet;
+  font-size: 60px;
+}
+color039 { /* Color 39 */
+  color: DeepPink;
+  font-size: 60px;
+}
+color040 { /* Color 40 */
+  color: DeepSkyBlue;
+  font-size: 60px;
+}
+/* ===========
+Colors 41-50 | 
+============*/
+color041 { /* Color 41 */
+  color: DimGray;
+  font-size: 60px;
+}
+color042 { /* Color 42 */
+  color: DodgerBlue;
+  font-size: 60px;
+}
+color043 { /* Color 43 */
+  color: FireBrick;
+  font-size: 60px;
+}
+color044 { /* Color 44 */
+  color: FloralWhite;
+  font-size: 60px;
+}
+color045 { /* Color 45 */
+  color: ForestGreen;
+  font-size: 60px;
+}
+color046 { /* Color 46 */
+  color: Fuchsia;
+  font-size: 60px;
+}
+color047 { /* Color 47 */
+  color: Gainsboro;
+  font-size: 60px;
+}
+color048 { /* Color 48 */
+  color: GhostWhite;
+  font-size: 60px;
+}
+color049 { /* Color 49 */
+  color: Gold;
+  font-size: 60px;
+}
+color050 { /* Color 50 */
+  color: GoldenRod;
+  font-size: 60px;
+}
+/* ===========
+Colors 51-60 | 
+============*/
+color051 { /* Color 51 */
+  color: Grey;
+  font-size: 60px;
+}
+color052 { /* Color 52 */
+  color: Green;
+  font-size: 60px;
+}
+color053 { /* Color 53 */
+  color: GreenYellow;
+  font-size: 60px;
+}
+color054 { /* Color 54 */
+  color: HoneyDew;
+  font-size: 60px;
+}
+color055 { /* Color 55 */
+  color: HotPink;
+  font-size: 60px;
+}
+color056 { /* Color 56 */
+  color: IndianRed;
+  font-size: 60px;
+}
+color057 { /* Color 57 */
+  color: Indigo;
+  font-size: 60px;
+}
+color058 { /* Color 58 */
+  color: Ivory;
+  font-size: 60px;
+}
+color059 { /* Color 59 */
+  color: Khaki;
+  font-size: 60px;
+}
+color060 { /* Color 60 */
+  color: Lavender;
+  font-size: 60px;
+}
+/* ===========
+Colors 61-70 | 
+============*/
+color061 { /* Color 61 */
+  color: LavenderBlush;
+  font-size: 60px;
+}
+color062 { /* Color 62 */
+  color: LawnGreen;
+  font-size: 60px;
+}
+color063 { /* Color 63 */
+  color: LemonChiffon;
+  font-size: 60px;
+}
+color064 { /* Color 64 */
+  color: LightBlue;
+  font-size: 60px;
+}
+color065 { /* Color 65 */
+  color: LightCoral;
+  font-size: 60px;
+}
+color066 { /* Color 66 */
+  color: LightCyan;
+  font-size: 60px;
+}
+color067 { /* Color 67 */
+  color: LightGoldenRodYellow;
+  font-size: 60px;
+}
+color068 { /* Color 68 */
+  color: LightGrey;
+  font-size: 60px;
+}
+color069 { /* Color 69 */
+  color: LightGreen;
+  font-size: 60px;
+}
+color070 { /* Color 70 */
+  color: LightPink;
+  font-size: 60px;
+}
+/* ===========
+Colors 71-80 | 
+============*/
+color071 { /* Color 71 */
+  color: LightSalmon;
+  font-size: 60px;
+}
+color072 { /* Color 72 */
+  color: LightSeaGreen;
+  font-size: 60px;
+}
+color073 { /* Color 73 */
+  color: LightSkyBlue;
+  font-size: 60px;
+}
+color074 { /* Color 74 */
+  color: LightSlateGrey;
+  font-size: 60px;
+}
+color075 { /* Color 75 */
+  color: LightSteelBlue;
+  font-size: 60px;
+}
+color076 { /* Color 76 */
+  color: LightYellow;
+  font-size: 60px;
+}
+color077 { /* Color 77 */
+  color: Lime;
+  font-size: 60px;
+}
+color078 { /* Color 78 */
+  color: LimeGreen;
+  font-size: 60px;
+}
+color079 { /* Color 79 */
+  color: Linen;
+  font-size: 60px;
+}
+color080 { /* Color 80 */
+  color: Magenta;
+  font-size: 60px;
+}
+/* ===========
+Colors 81-90 | 
+============*/
+color081 { /* Color 81 */
+  color: Maroon;
+  font-size: 60px;
+}
+color082 { /* Color 82 */
+  color: MediumAquaMarine;
+  font-size: 60px;
+}
+color083 { /* Color 83 */
+  color: MediumBlue;
+  font-size: 60px;
+}
+color084 { /* Color 84 */
+  color: MediumOrchid;
+  font-size: 60px;
+}
+color085 { /* Color 85 */
+  color: MediumPurple;
+  font-size: 60px;
+}
+color086 { /* Color 86 */
+  color: MediumSeaGreen;
+  font-size: 60px;
+}
+color087 { /* Color 87 */
+  color: MediumSlateBlue;
+  font-size: 60px;
+}
+color088 { /* Color 88 */
+  color: MediumSpringGreen;
+  font-size: 60px;
+}
+color089 { /* Color 89 */
+  color: MediumTurquoise;
+  font-size: 60px;
+}
+color090 { /* Color 90 */
+  color: MediumVioletRed;
+  font-size: 60px;
+}
+/* ===========
+Colors 91-100 | 
+============*/
+color091 { /* Color 91 */
+  color: MidnightBlue;
+  font-size: 60px;
+}
+color092 { /* Color 92 */
+  color: MintCream;
+  font-size: 60px;
+}
+color093 { /* Color 93 */
+  color: MistyRose;
+  font-size: 60px;
+}
+color094 { /* Color 94 */
+  color: Moccasin;
+  font-size: 60px;
+}
+color095 { /* Color 95 */
+  color: NavajoWhite;
+  font-size: 60px;
+}
+color096 { /* Color 96 */
+  color: Navy;
+  font-size: 60px;
+}
+color097 { /* Color 97 */
+  color: OldLace;
+  font-size: 60px;
+}
+color098 { /* Color 98 */
+  color: Olive;
+  font-size: 60px;
+}
+color099 { /* Color 99 */
+  color: OliveDrab;
+  font-size: 60px;
+}
+color100 { /* Color 100 */
+  color: Orange;
+  font-size: 60px;
+}
+/* ===========
+Colors 101-110 | 
+============*/
+color101 { /* Color 101 */
+  color: OrangeRed;
+  font-size: 60px;
+}
+color102 { /* Color 102 */
+  color: Orchid;
+  font-size: 60px;
+}
+color103 { /* Color 103 */
+  color: PaleGoldenRod;
+  font-size: 60px;
+}
+color104 { /* Color 104 */
+  color: PaleGreen;
+  font-size: 60px;
+}
+color105 { /* Color 105 */
+  color: PaleTurquoise;
+  font-size: 60px;
+}
+color106 { /* Color 106 */
+  color: PaleVioletRed;
+  font-size: 60px;
+}
+color107 { /* Color 107 */
+  color: PapayaWhip;
+  font-size: 60px;
+}
+color108 { /* Color 108 */
+  color: PeachPuff;
+  font-size: 60px;
+}
+color109 { /* Color 109 */
+  color: Peru;
+  font-size: 60px;
+}
+color110 { /* Color 110 */
+  color: Pink;
+  font-size: 60px;
+}
+/* ===========
+Colors 111-120 | 
+============*/
+color111 { /* Color 111 */
+  color: Plum;
+  font-size: 60px;
+}
+color112 { /* Color 112 */
+  color: PowderBlue;
+  font-size: 60px;
+}
+color113 { /* Color 113 */
+  color: Purple;
+  font-size: 60px;
+}
+color114 { /* Color 114 */
+  color: RebeccaPurple;
+  font-size: 60px;
+}
+color115 { /* Color 115 */
+  color: Red;
+  font-size: 60px;
+}
+color116 { /* Color 116 */
+  color: RosyBrown;
+  font-size: 60px;
+}
+color117 { /* Color 117 */
+  color: RoyalBlue;
+  font-size: 60px;
+}
+color118 { /* Color 118 */
+  color: SaddleBrown;
+  font-size: 60px;
+}
+color119 { /* Color 119 */
+  color: Salmon;
+  font-size: 60px;
+}
+color120 { /* Color 120 */
+  color: SandyBrown;
+  font-size: 60px;
+}
+/* ===========
+Colors 121-130 | 
+============*/
+color121 { /* Color 121 */
+  color: SeaGreem;
+  font-size: 60px;
+}
+color122 { /* Color 122 */
+  color: SeaShell;
+  font-size: 60px;
+}
+color123 { /* Color 123 */
+  color: Sienna;
+  font-size: 60px;
+}
+color124 { /* Color 124 */
+  color: Silver;
+  font-size: 60px;
+}
+color125 { /* Color 125 */
+  color: SkyBlue;
+  font-size: 60px;
+}
+color126 { /* Color 126 */
+  color: SlateBlue;
+  font-size: 60px;
+}
+color127 { /* Color 127 */
+  color: SlateGrey;
+  font-size: 60px;
+}
+color128 { /* Color 128 */
+  color: Snow;
+  font-size: 60px;
+}
+color129 { /* Color 129 */
+  color: SpringGreen;
+  font-size: 60px;
+}
+color130 { /* Color 130 */
+  color: SteelBlue;
+  font-size: 60px;
+}
+/* ===========
+Colors 131-141 | 
+============*/
+color131 { /* Color 131 */
+  color: Tan;
+  font-size: 60px;
+}
+color132 { /* Color 132 */
+  color: Teal;
+  font-size: 60px;
+}
+color133 { /* Color 133 */
+  color: Thistle;
+  font-size: 60px;
+}
+color134 { /* Color 134 */
+  color: Tomato;
+  font-size: 60px;
+}
+color135 { /* Color 135 */
+  color: Turquoise;
+  font-size: 60px;
+}
+color136 { /* Color 136 */
+  color: Violet;
+  font-size: 60px;
+}
+color137 { /* Color 137 */
+  color: Wheat;
+  font-size: 60px;
+}
+color138 { /* Color 138 */
+  color: White;
+  font-size: 60px;
+}
+color139 { /* Color 139 */
+  color: WhiteSmoke;
+  font-size: 60px;
+}
+color140 { /* Color 140 */
+  color: Yellow;
+  font-size: 60px;
+}
+color141 { /* Color 141 */
+  color: YellowGreen;
+  font-size: 60px;
+}
+/* apparently there are 141 colors, not 140 */
+/* End of stylesheet */
+```
+
+#### Blink tag in CSS
+
+This tag was deprecated, as it is too annoying and disruptive, but it is still usable in most web browsers:
+
+```css
+/* CSS Example */
+blink, .blink {
+	-webkit-animation: blink 1s step-end infinite;
+	-moz-animation: blink 1s step-end infinite;
+	-o-animation: blink 1s step-end infinite;
+	animation: blink 1s step-end infinite;
+}
+@-webkit-keyframes blink {
+	67% { opacity: 0 }
+}
+@-moz-keyframes blink {
+	67% { opacity: 0 }
+}
+@-o-keyframes blink {
+	67% { opacity: 0 }
+}
+@keyframes blink {
+	67% { opacity: 0 }
+}
+```
+
+It also requires this JavaScript source code to work:
+
+```javascript
+// JQuery example
+setInterval(function(){
+	$('blink').each(function() {
+		$(this).toggle();
+});
+}, 250);
+// Vanilla JavaScript example
+(function() {
+	var blinks = document.getElementsByTagName('blink');
+	var visibility = 'hidden';
+	window.setInterval(function() {
+	for (var i = blinks.length - 1; i >= 0; i--) {
+		blinks[i].style.visibility = visibility;
+}
+	visibility = (visibility === 'visible') ? 'hidden' : 'visible';
+	}, 250);
+})();
+```
+
+#### Change cursor animations in CSS
+
+This is a semi-CSS example, with lots of HTML tags as well.
+
+```html
+<H1 lang="en">CSS cursor styles</H1>
+<p lang="en">Mouse over the words to change the cursor.</p>
+<span style="cursor:auto">auto</span><br>
+<span style="cursor:crosshair">crosshair</span><br>
+<span style="cursor:default">default</span><br>
+<span style="cursor:e-resize">e-resize</span><br>
+<span style="cursor:help">help</span><br>
+<span style="cursor:move">move</span><br>
+<span style="cursor:n-resize">n-resize</span><br>
+<span style="cursor:ne-resize">ne-resize</span><br>
+<span style="cursor:nw-resize">nw-resize</span><br>
+<span style="cursor:pointer">pointer</span><br>
+<span style="cursor:progress">progress</span><br>
+<span style="cursor:s-resize">s-resize</span><br>
+<span style="cursor:se-resize">se-resize</span><br>
+<span style="cursor:sw-resize">sw-resize</span><br>
+<span style="cursor:text">text</span><br>
+<span style="cursor:w-resize">w-resize</span><br>
+<span style="cursor:wait">wait</span><br>
+```
+
+#### Embedding a stylesheet in CSS
+
+To embed a CSS stylesheet in HTML, the following should be done:
+
+```html
+<style type="text/css"
+/* Some CSS source code goes here */
+</style>
+```
+
+#### Linking to a CSS stylesheet
+
+To link to a CSS stylesheet in HTML, the following should be done:
+
+```html
+<html>
+<head>
+      <link rel="stylesheet" src="My-CSS-Stylesheet.css">
+</head>
+</html>
+```
+
+To put it simply:
+
+```html
+<link rel="stylesheet" src="My-CSS-Stylesheet.css">
+```
+
+#### Feature requests for CSS
+
+Some feature requests I have for CSS (old)
+
+```css
+/* What we need:
+* a:dead (for dead links/404 pages)
+* a:visitedhover (for hovering over visited links)
+*/
+/* Future things to experiment with
+* Sounds
+* Glowing
+* Exclusion from sidebar and top navigation bar (topbar)
+*/
+/* End of the Hyperlink stylesheet */
+/* Stylesheet version: 2 (February 15th 2020) */
+```
+
+Plain text version:
+
+```
+What we need:
+a:dead (for dead links/404 pages)
+a:visitedhover (for hovering over visited links)
+```
+
+#### Other knowledge in CSS
+
+1. CSS is one of the 3 main languages used for classic web development (HTML5, CSS, JavaScript)
+
+2. I know about the book "The Zen of CSS"
+
+3. CSS is a curly bracket and semicolon language
+
+4. CSS is a stylesheet language, NOT a true programming language
+
+5. The current version of the CSS standard is 3.0
+
+6. Other stylesheet languages like Less or Handlebars may be able to replace CSS for ones use
+
+7. CSS only has 1 file extension (`*.css`)
+
+8. CSS stands for Cascade Styling Sheets, and NOT Content Scramble System or anything else
+
+9. CSS can be embedded into HTML or linked externally
+
+10. Various tests for CSS compliance exist, the 3 most notable ones include the `acid1` `acid2`, and `acid3` tests
+
+11. CSS can be embedded into HTML, but it is not always the best practice
+
+12. Alternatives to CSS exist, such as SCSS, SASS, JSSS, Less, Handlebars, Stylus, and more
+
+13. No other CSS knowledge to list
+
+That is all my current knowledge of the CSS language.
 
 ***
