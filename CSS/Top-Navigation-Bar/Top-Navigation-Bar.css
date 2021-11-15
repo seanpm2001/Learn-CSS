@@ -1,0 +1,24 @@
+/* The CSS Top navigation bar stylesheet */
+/* Style the links inside the navigation bar */
+/* Rule count: 3 */
+.topnav a { /* Rule 1 */
+	float: left;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+} /* End of rule 1 */
+/* Change the color of links on hover */
+.topnav a:hover { /* Rule 2 */
+	background-color: #ddd;
+	color: black;
+} /* End of rule 2 */
+/* Add a color to the active/current link */
+.topnav a.active { /* Rule 3 */
+	background-color: #4CAF50;
+	color: white;
+} /* End of rule 3 */
+/* Origin: CSSTopNavBarV1 - November 25th 2019 */
+/* Stylesheet version: 2 (February 15th 2020) */
+

@@ -1,0 +1,141 @@
+.button {
+	background-color: #4CAF50; /* Green */
+	border: none;
+	color: white;
+	padding: 16px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	transition-duration: 0.4s;
+	cursor: pointer;
+}
+
+.button1 {
+	background-color: white; 
+	color: black; 
+	border: 2px solid #4CAF50;
+}
+
+.button1:hover {
+	background-color: #4CAF50;
+	color: white;
+}
+
+.button2 {
+	background-color: white; 
+	color: black; 
+	border: 2px solid #008CBA;
+}
+
+.button2:hover {
+	background-color: #008CBA;
+	color: white;
+}
+
+.button3 {
+	background-color: white; 
+	color: black; 
+	border: 2px solid #f44336;
+}
+
+.button3:hover {
+	background-color: #f44336;
+	color: white;
+}
+
+.button4 {
+	background-color: white;
+	color: black;
+	border: 2px solid #e7e7e7;
+}
+
+.button4:hover {background-color: #e7e7e7;}
+
+.button5 {
+	background-color: white;
+	color: black;
+	border: 2px solid #555555;
+}
+
+.button5:hover {
+	background-color: #555555;
+	color: white;
+}
+
+.buttons3 {
+	background-color: #4CAF50; /* Green */
+	border: none;
+	color: white;
+	padding: 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+
+.button {
+	background-color: #4CAF50; /* Green */
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+
+.button1s2 {
+	background-color: white; 
+	color: black; 
+	border: 2px solid #4CAF50;
+}
+
+.button2s2 {
+	background-color: white; 
+	color: black; 
+	border: 2px solid #008CBA;
+}
+
+.button3s2 {
+	background-color: white; 
+	color: black; 
+	border: 2px solid #f44336;
+}
+
+.button4s2 {
+	background-color: white;
+	color: black;
+	border: 2px solid #e7e7e7;
+}
+
+.button5s2 {
+	background-color: white;
+	color: black;
+	border: 2px solid #555555;
+}
+</style>
+<style type="text/css" lang="en">
+.buttons3 {
+	background-color: #4CAF50; /* Green */
+	border: none;
+	color: white;
+	padding: 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+.button1s3 {border-radius: 2px;}
+.button2s3 {border-radius: 4px;}
+.button3s3 {border-radius: 8px;}
+.button4s3 {border-radius: 12px;}
+.button5s3 {border-radius: 50%;}
+

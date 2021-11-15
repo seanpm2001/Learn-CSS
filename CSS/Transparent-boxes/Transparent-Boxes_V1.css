@@ -1,0 +1,30 @@
+/* The CSS Transparent boxes stylesheet */
+/* transparent box section */
+/* Rule count: 4 */
+div.background { /* Rule 1 */ /* Defines the background for the div */
+	background: url(klematis.jpg) repeat; /* klematis.jpg has never existed. It was just what came with it (credit to w3schools) */
+	border: 2px solid black;
+} /* End of rule 1 */
+div.transbox { /* Rule 2 */ /.* Defines the transparent box div */
+	margin-top: 0px;
+	margin-bottom: 0px; 
+	margin-right: 0px;
+	margin-left: 0px;
+	background-color: #00BFFF; /* The text was there, the background was the wrong color. A new beautiful shade of blue was added to fix this - April 6th 2019 */
+	border: 1px solid black;
+	opacity: 0.6;
+	filter: alpha(opacity=80); /* For IE8 and earlier */
+} /* End of rule 2 */
+div.transbox p { /* Rule 3 */ /* Defines the settings for paragraphs on the transparent box */
+	margin: 1%; /* make sure this stays at 1%. At 5%, there is a large spacing issue between each new paragraph */
+	font-weight: bold;
+	color: #ffffff;
+} /* End of rule 3 */
+/* Add a black background color to the top navigation */
+.topnav { /* Rule 4 */ /* Top navigation bar */
+	background-color: #333;
+	overflow: hidden;
+} /* End of rule 4 */
+/* Origin: TransparentBoxCSSSectionV1.css - November 25th 2019 */
+/* Stylesheet version: 2 (February 15th 2020) */
+
